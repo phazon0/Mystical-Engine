@@ -19,7 +19,6 @@ import java.util.*;
 import java.util.List;
 
 public class MainTesselator extends Tesselator{
-    //ADD CFG FOR THIS SHIT
     private static float FOV = 90;
     private static final float MinDistance = 0.1f;
     private static final float MaxDistance = 4000f;
