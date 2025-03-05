@@ -17,8 +17,6 @@ import java.util.List;
 
 public class EntityTesselator extends Tesselator{
 
-    //ADD THIS TO CONFIG FILE TYPE SHIT
-
     private ShaderMain shader;
 
 
